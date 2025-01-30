@@ -1,8 +1,8 @@
 <html>
 
-<h2 align=center>
+<h1 align=center>
   ✦•······················•✦•······················•✦
-</h2>
+</h1>
 
 <body>
 <p align=center>
