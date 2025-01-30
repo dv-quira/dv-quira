@@ -2,7 +2,7 @@
 
 <body>
 <p align=center>
-<img src="![image](https://github.com/user-attachments/assets/ce9302f6-e3aa-4c7b-b713-77800d4b4045)" height=200px width=400px;>
+<img src="http://images6.fanpop.com/image/photos/45300000/choso-choso-jjk-1-jujutsu-kaisen-45348676-300-169.gif" height=200px width=400px;>
 </p>
 </body>
 
