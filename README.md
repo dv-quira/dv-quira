@@ -1,5 +1,9 @@
 <html>
 
+<h2 align=center>
+  ✦•······················•✦•······················•✦
+</h2>
+
 <body>
 <p align=center>
 <img src="http://images6.fanpop.com/image/photos/45300000/choso-choso-jjk-1-jujutsu-kaisen-45348676-300-169.gif" height=200px width=400px;>
